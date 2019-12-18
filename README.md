@@ -11,7 +11,7 @@ docker build -t dotnet_aws .
 ## Docker Image Structure
 * CenetOS : least
 * AWS CLI
-  * Python v2.7
+  * Python v3.6
   * pip3
   * dotnet Core v2.1
 
