@@ -18,3 +18,4 @@ docker build -t dotnet_aws .
 * https://www.kabegiwablog.com/entry/2019/11/21/083440
 * https://qiita.com/hkiribayashi/items/73562f7900f20cbab511
 * https://dotnet.microsoft.com/download/dotnet-core/2.1
+* https://qiita.com/ABCompany1/items/c92ac5087519c103f056
